@@ -1,0 +1,12 @@
+form{
+  display: block !important;
+  margin: 15px;
+  padding: 70px;
+  text-align: -webkit-center;
+}
+h2{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    padding: 25px;
+}
